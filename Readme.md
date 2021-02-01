@@ -33,14 +33,15 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
+<br />
 ---
 
-<br />
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aditya6101&show_icons=true&hide_border=true" />
 </details>
+
+
 [twitter]: https://twitter.com/AdityaK6101
 [instagram]: https://www.instagram.com/adityak6101
 [linkedin]: https://www.linkedin.com/in/aditya-kamble-45aa741b1
