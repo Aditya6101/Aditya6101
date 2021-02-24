@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya Kamble 👋
 
-## I'm a Student, Developer, and Your Friend!!
+## I'm a Student, Developer, and Lifetime Learner!!!
 
 - 🌱 I’m currently learning React, php and Everything...🤣
 - 👯 I’m looking to collaborate with other content creators
