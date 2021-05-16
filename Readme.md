@@ -17,26 +17,41 @@
 
 ---
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/128/Visual_Code.png" />
-<img align="left" alt="Figma" width="26px" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-256.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png" />
-<img align="left" alt="C++" width="26px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sass/sass-original.svg" />
+<img align="left" alt="Tailwindcss" width="26px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 
 
 <br />
 
 ---
+
+### Tools:
+
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+<img align="left" alt="npm" width="26px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" />
+<img align="left" alt="yarn" width="26px" src="https://cdn.worldvectorlogo.com/logos/yarn.svg" />
+
+
+<br />
+
+---
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
