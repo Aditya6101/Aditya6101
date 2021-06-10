@@ -49,10 +49,11 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Aditya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aditya6101&show_icons=true&hide_border=true" />
-</details>
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya6101&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya6101&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/AdityaK6101
