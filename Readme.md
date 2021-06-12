@@ -17,7 +17,7 @@
 
 ---
 
-### Languages:
+### Languages & Frameworks:
 
 
 <img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
