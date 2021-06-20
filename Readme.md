@@ -26,6 +26,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sass/sass-original.svg" />
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" />
 
 
