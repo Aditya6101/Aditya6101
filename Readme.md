@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Lifetime Learner!!!
 
-- 🌱 I’m currently learning React, php and Everything...🤣
+- 🌱 I’m currently learning MySQL and Everything...🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn new Technologies 💡, Improve my Programming Skills 🛠 and Health 💪
 - ⚡ Fun fact: I love to Play Cricket 🏏 and Listening the Music 🎧
